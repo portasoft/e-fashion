@@ -1,4 +1,4 @@
-# Meat - Angular App Starter
+# Efashion - Angular App Starter
 
 ## 1. Passos para começar
 
